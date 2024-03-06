@@ -1,10 +1,10 @@
 # <p align="center">hi
 <p align="center">
-still learning
-I Think this is cool!
+<p align="center">still learning
+<p align="center">I Think this is cool!
 
-projects:
-* Cube Game
-* S
+<p align="center">projects:
+<p align="center">* Cube Game
+<p align="center">* S
 
-<>
+
